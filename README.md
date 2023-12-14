@@ -11,3 +11,5 @@ The goal was to prepare a complete data analysis report on the given data set. T
 1. Prepare a rank ordered list of top 10 countries with most players. Which countries are producing the most footballers that play at this level?
 2. Plot the distribution of overall rating Vs. Age of players. Interpret what is the age after which a player stops playing.
 3. Which type of offensive players tends to get paid the most: the striker, the right-winger or the left-winger
+
+Important Note: Merge all 4 files before running.
